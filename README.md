@@ -1,4 +1,4 @@
-# Repositorio GiTHUB de Alejandro
+# Repositorio GitHub de Alejandro
 ![Imagen de Portada](Alexparalosamigos/Mifoto.JPG)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
