@@ -1,5 +1,5 @@
 # Repositorio GiTHUB de Alejandro
-![Imagen de Portada](Repositorio Alexparalosamigos/Mi foto.JPG)
+![Imagen de Portada](Alexparalosamigos/Mifoto.JPG)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
