@@ -1,11 +1,12 @@
 # Repositorio GitHub de Alejandro
 ![Imagen de Portada](Alexparalosamigos/Mifoto.JPG)
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+*Dando los primeros pasos en GitHub.*
+Estudiante de DAM y aprendiz de programador. 
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3
+- Característica 1: Interés
+- Característica 2: Ganas
+- Característica 3: Curiosidad
 ## Instalación
 Instrucciones para instalar y configurar el proyecto.
 ## Uso
